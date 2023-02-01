@@ -1,31 +1,3 @@
+Aquest mostra una successió de nombres de Lucas en la pantalla una vegada s'ha premut el botó B. Prèviament, prement el botó A diverses vegades, es determina la quantitat de nombres de Lucas que es mostraran. A més a més, el codi toca una melodia i exibeix icones a la pantalla abans de mostrar la sèrie de nombres de Lucas.
 
-> Open this page at [https://edw3k.github.io/microbit-guifre-agustin/](https://edw3k.github.io/microbit-guifre-agustin/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/edw3k/microbit-guifre-agustin** and import
-
-## Edit this project ![Build status badge](https://github.com/edw3k/microbit-guifre-agustin/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/edw3k/microbit-guifre-agustin** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/edw3k/microbit-guifre-agustin/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+La sèrie de nombres de Lucas és una seqüència de nombres enters matemàtics que es defineix recursivament. Els primers dos nombres en la sèrie són 2 i 1, i cada nombre següent s'obté sumant els dos nombres anteriors. Així, la sèrie de nombres de Lucas és la següent: 2, 1, 3, 4, 7, 11, 18, 29, ... i així successivament. Aquesta sèrie és similar a la sèrie de Fibonacci, però comença amb diferents valors.
