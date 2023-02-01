@@ -66,7 +66,7 @@ basic.forever(function on_forever() {
     atimes = 0
     bclicked = 0
     showIcon()
-    basic.showString("A to input B to fibo")
+    basic.showString("A to input  B to fibo")
     numElements()
     basic.pause(500)
 })
